@@ -60,15 +60,21 @@ A MERN Stack real estate platform with user and admin interfaces.
 ### 😷 VisionGuard AI
 Real-time Face Mask Detection using YOLOv8, OpenCV, Flask, and SQLite.
 
+🔗 GitHub: https://github.com/vrundasuresh04/visionguard-ai
+
 ---
 
 ### 📰 Fake News Detection
 Machine Learning application using Python, Scikit-learn, and Streamlit.
 
+🔗 GitHub: https://github.com/vrundasuresh04/Fake-News-Detection-AI
+
 ---
 
 ### 📊 Sales Analysis Dashboard
 Interactive Power BI dashboard for sales insights and KPI visualization.
+
+🔗 GitHub: https://github.com/vrundasuresh04Sales-Analysis-Dashboard
 
 ---
 

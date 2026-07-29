@@ -74,7 +74,7 @@ Machine Learning application using Python, Scikit-learn, and Streamlit.
 ### 📊 Sales Analysis Dashboard
 Interactive Power BI dashboard for sales insights and KPI visualization.
 
-🔗 GitHub: https://github.com/vrundasuresh04Sales-Analysis-Dashboard
+🔗 GitHub: https://github.com/vrundasuresh04/Sales-Analysis-Dashboard
 
 ---
 
